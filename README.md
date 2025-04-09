@@ -72,7 +72,4 @@ Built with ❤️ by Yadnyesh Patil
 
 
 
----
-
-Let me know if you'd like to customize this further (e.g., include projects, skills, contact form, etc.).
 
